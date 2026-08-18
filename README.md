@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Aditya Prabhawale</h1>
+<h1 align="center">Hi 👋, I'm Aditya Prabhawale</h1>
 <h3 align="center">A passionate frontend developer from India5+ Years of Frontend Development Experience Specializing in building high-performance, banking-grade applications with React, and React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiprabhawale&label=Profile%20views&color=0e75b6&style=flat" alt="adiprabhawale" /> </p>
